@@ -21,5 +21,5 @@ Está configurado mediante el paquete dotenv por tanto para poder probar tus des
         TWITCH_OAUTH_USERNAME=""
         TWITCH_OAUTH_TOKEN=""
 
-        En TWITCH_OAUTH_USERNAME indicarás tu usuario de twitch y en TWITCH_OAUTH_TOKEN el valor obtenido en al web que conectaste anteriormente.
-        No te preocupes por poner la información, ese archivo no se subirá al repositorio cuando hagas un commit.
+En TWITCH_OAUTH_USERNAME indicarás tu usuario de twitch y en TWITCH_OAUTH_TOKEN el valor obtenido en al web que conectaste anteriormente.
+No te preocupes por poner la información, ese archivo no se subirá al repositorio cuando hagas un commit.
