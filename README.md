@@ -9,6 +9,9 @@ Bot para Twitch creado en comunidad en el canal https://www.twitch.tv/adrianmart
 
 Sí, eres libre de aportar las ideas que veas necesarias, puedes desarrollarlas o pedirnos que lo hagamos en directo.
 
+El repositorio está montado con gitflow por lo que si no conoces cómo funciona, te dejo a continuación un enlace:
+https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
+
 #### ¿Cómo configurar una conexión para hacer pruebas?
 
 Está configurado mediante el paquete dotenv por tanto para poder probar tus desarrollos tendrás que seguir los siguientes pasos:
